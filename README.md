@@ -1,7 +1,7 @@
 # Biobaby
 four-stage rpg game made by Uniy
 
-# [Play Now !!](http://163.28.17.68)
+# [Play Now !!](biobaby.kuanhao_chao.nctu.me)
 (Chrome and Firefox are recommended. Don't use Safari!)
 
 ## Story
@@ -26,5 +26,5 @@ Exotic species(chomper, spitter), and super bacteria(muddy) had escaped from doc
 
 (**click the baby to watch the video!!**)
 
-# [Play Now !!](http://163.28.17.68)
+# [Play Now !!](biobaby.kuanhao_chao.nctu.me)
 (Chrome and Firefox are recommended. Don't use Safari!)
