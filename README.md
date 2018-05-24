@@ -1,5 +1,5 @@
 # Biobaby
-four-stage rpg game made by Uniy
+four-stage rpg game made by Uniy (生活中的生物科技期末創意發表)
 
 # [Play Now !!](http://biobaby.kuanhao_chao.nctu.me)
 (Chrome and Firefox are recommended. Don't use Safari!)
