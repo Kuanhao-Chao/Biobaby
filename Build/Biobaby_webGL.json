@@ -1,0 +1,14 @@
+{
+"companyName": "Kuan-Hao, Chao",
+"productName": "biobaby",
+"dataUrl": "Biobaby_webGL.data.unityweb",
+"asmCodeUrl": "Biobaby_webGL.asm.code.unityweb",
+"asmMemoryUrl": "Biobaby_webGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Biobaby_webGL.asm.framework.unityweb",
+"asmLibraryUrl": "Biobaby_webGL.asm.library.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
