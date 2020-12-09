@@ -1,7 +1,7 @@
 # Biobaby
 four-stage rpg game made by Uniy (生活中的生物科技期末創意發表)
 
-# [Play Now !!](http://kuanhao.nctu.me/biobaby/index.html)
+# [Play Now !!](https://storage.googleapis.com/kuanhao.nctu.me/biobaby/index_full.html)
 (Chrome and Firefox are recommended. Don't use Safari!)
 
 ## Story
@@ -26,5 +26,5 @@ Super bacteria(chomper, spitter, muddy) had escaped from doctor Chao's lab. Biob
 
 (**click the baby to watch the video!!**)
 
-# [Play Now !!](http://kuanhao.nctu.me/biobaby/index.html)
+# [Play Now !!](https://storage.googleapis.com/kuanhao.nctu.me/biobaby/index_full.html)
 (Chrome and Firefox are recommended. Don't use Safari!)
