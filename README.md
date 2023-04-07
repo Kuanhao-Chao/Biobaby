@@ -1,11 +1,12 @@
 # Biobaby
-four-stage rpg game made by Uniy (生活中的生物科技期末創意發表)
 
-# [Play Now !!](https://storage.googleapis.com/kuanhao.nctu.me/biobaby/index_full.html)
+## [Play Now !!](http://storage.khchao.com/biobaby/index.html)
 (Chrome and Firefox are recommended. Don't use Safari!)
 
+Here is a demo ***[video](https://www.youtube.com/watch?v=L4wPfSFFKYY)***
+
 ## Story
-Super bacteria(chomper, spitter, muddy) had escaped from doctor Chao's lab. Biobaby has to help the doctor to defeat all the enemies and big boss - "evil Bluebrr"! During the journey, biobaby has to collect four keys - A, T, C, G in order to open the locked door. Do your best and help doctor Chao to protect this place! Be careful and good luck! Let's become "Super Gene Baby"!
+Super bacteria (Chomper, Spitter, Muddy) had escaped from Doctor Chao's lab. Biobaby has to help the doctor defeat all the enemies, including the big boss - 'Evil Bluebrr'! During the journey, Biobaby needs to collect four keys - A, T, C, G - in order to open the locked door. Do your best and help Doctor Chao protect this place! Be careful and good luck! Let's become 'Super Gene Baby'!
 
 ## Screen Shoot
 ![](https://i.imgur.com/R5ooJfa.jpg)
@@ -26,5 +27,5 @@ Super bacteria(chomper, spitter, muddy) had escaped from doctor Chao's lab. Biob
 
 (**click the baby to watch the video!!**)
 
-# [Play Now !!](https://storage.googleapis.com/kuanhao.nctu.me/biobaby/index_full.html)
+# [Play Now !!](http://storage.khchao.com/biobaby/index.html)
 (Chrome and Firefox are recommended. Don't use Safari!)
