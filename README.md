@@ -1,6 +1,6 @@
 # Biobaby
 
-## [Play Now !!](http://storage.khchao.com/biobaby/index.html)
+## [Play Now !!]([http://storage.khchao.com/biobaby/index.html](https://storage.googleapis.com/storage.khchao.com/biobaby/index.html))
 (Chrome and Firefox are recommended. Don't use Safari!)
 
 Here is a demo ***[video](https://www.youtube.com/watch?v=L4wPfSFFKYY)***
@@ -27,5 +27,5 @@ Super bacteria (Chomper, Spitter, Muddy) had escaped from Doctor Chao's lab. Bio
 
 (**click the baby to watch the video!!**)
 
-# [Play Now !!](http://storage.khchao.com/biobaby/index.html)
+# [Play Now !!]([http://storage.khchao.com/biobaby/index.html](https://storage.googleapis.com/storage.khchao.com/biobaby/index.html)https://storage.googleapis.com/storage.khchao.com/biobaby/index.html)
 (Chrome and Firefox are recommended. Don't use Safari!)
